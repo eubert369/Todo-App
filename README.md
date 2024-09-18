@@ -35,7 +35,7 @@ This project is just a hands-on exercise aimed at building a Todo App to enhance
 	- Navigate to your cluster and click on "Connect." Choose "Connect your application" and copy the connection string.
 	- Replace `<username>`, `<password>`, and `<your-cluster-url>` with your MongoDB credentials and cluster URL.
 	
-4. **Rename the `.env.local` file to `.env` in the root directory and add your MongoDB connection string:**
+4. **Rename the `.env.local` file to `.env` in the root directory of the backend directory and add your MongoDB connection string:**
 	```bash
 	MONGODB_CONNECTION_STRING=mongodb+srv://<username>:<password>@<your-cluster-url>/todo-app?retryWrites=true&w=majority
 5. **Run the app:**
