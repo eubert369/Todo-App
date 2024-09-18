@@ -53,7 +53,7 @@ This project is just a hands-on exercise aimed at building a Todo App to enhance
 
 	Open your browser and go to `http://localhost:3000`
 
-## Contributiion
+## Contribution
 Contributions are welcome! If you'd like to contribute to the project, follow these steps:
 - Fork the repository.
 - Create a new branch for your changes.
