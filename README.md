@@ -50,4 +50,5 @@ This project is just a hands-on exercise aimed at building a Todo App to enhance
 		cd ./Backend
 		npm start
 6. **Access the app**
+
 	Open your browser and go to `http://localhost:3000`
