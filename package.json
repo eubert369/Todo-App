@@ -1,0 +1,22 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "This project is just a hands-on exercise aimed at building a Todo App to enhance my skills and understanding of the MERN stack (MongoDB, Express.js, React, and Node.js).",
+  "scripts": {
+    "start": "concurrently \"npm run start:dev --prefix Frontend\" \"npm run start:dev --prefix Backend\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eubert369/Todo-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eubert369/Todo-App/issues"
+  },
+  "homepage": "https://github.com/eubert369/Todo-App#readme",
+  "dependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

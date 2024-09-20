@@ -58,6 +58,8 @@ function Todo() {
                   update={fetchData}
                 />
               );
+            } else {
+              return null;
             }
           })}
 

@@ -39,16 +39,9 @@ This project is just a hands-on exercise aimed at building a Todo App to enhance
 	```bash
 	MONGODB_CONNECTION_STRING=mongodb+srv://<username>:<password>@<your-cluster-url>/todo-app?retryWrites=true&w=majority
 5. **Run the app:**
-
-	The frontend and backend are run separately because I am not in the mood to configure a combined setup for running both with a single command.
-	- **Frontend**
-		```bash
-		cd ./Frontend
-		npm start
-	- **Backend**
-		```bash
-		cd ./Backend
-		npm start
+	
+	```bash
+	npm start
 6. **Access the app**
 
 	Open your browser and go to `http://localhost:3000`
